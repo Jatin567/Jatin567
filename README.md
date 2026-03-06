@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jatin%20Lella&fontSize=40&fontAlignY=35&desc=AI%20%7C%20Robotics%20%7C%20Autonomous%20Systems&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Jatin%20Lella&fontSize=42&fontColor=ffffff&desc=AI%20|%20Robotics%20|%20Autonomous%20Systems&descAlignY=60&descSize=18)
 ## Hi, I'm Jatin 👋
 
 AI & Robotics developer studying Electronics and Computer Engineering.
@@ -16,12 +16,10 @@ AI & Robotics developer studying Electronics and Computer Engineering.
 
 ### GitHub Stats
 
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin567&show_icons=true&theme=tokyonight)
+![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin567&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin567&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jatin567&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin567&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jatin567&theme=tokyonight&hide_border=true)
 ## Featured Projects
 
 ### 🔹 Motor Fault Detection using Machine Learning
