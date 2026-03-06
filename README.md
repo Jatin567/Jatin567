@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jatin 👋
 
-<!--
-**Jatin567/Jatin567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & Computer Engineering student passionate about
+AI, Robotics and Autonomous Systems.
 
-Here are some ideas to get you started:
+🔬 Currently working on:
+- AI based medical assistant (AURA)
+- Autonomous robotics systems
+- Machine learning for predictive maintenance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- Motor Fault Detection using Machine Learning
+- Autonomous Rover Navigation (ISRO Challenge)
+- AURA Medical Chatbot
+
+🛠 Tech Stack
+Python • C++ • ROS • Machine Learning • Node.js • React
+
+📫 Reach me at:
+jatinlella402@gmail.com
