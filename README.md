@@ -16,10 +16,19 @@ AI & Robotics developer studying Electronics and Computer Engineering.
 
 ### GitHub Stats
 
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin567&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin567&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Jatin567&theme=tokyonight&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jatin567&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jatin567&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Jatin567&theme=tokyonight&hide_border=true"/>
+</p>
 ## Featured Projects
 
 ### 🔹 Motor Fault Detection using Machine Learning
