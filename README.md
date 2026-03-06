@@ -14,7 +14,7 @@ AI, Robotics and Autonomous Systems.
 - AURA Medical Chatbot
 
 🛠 Tech Stack
-Python • C++ • ROS • Machine Learning • Node.js • React
+Python • C++ • Machine Learning • Node.js • React
 
 📫 Reach me at:
 jatinlella402@gmail.com
